@@ -1,10 +1,4 @@
-# <center>Prometheus 监控项目展示</center>
-
----
-
-[toc]
-
----
+# Prometheus 监控项目展示
 
 ## 系统层监控
 
