@@ -6,13 +6,9 @@
 >
 > **网络监控**：网络延迟、丢包率、网络设备、工作负载 ...
 
-**1、整体监控（大屏监控）**
-
 ![image-20230403162430367](https://csdn-rab.oss-cn-chengdu.aliyuncs.com/img/image-20230403162430367.png)
 
-**2、生产环境进程监控**
-
-![image-20230403163729049](https://csdn-rab.oss-cn-chengdu.aliyuncs.com/img/image-20230403163729049.png)
+部分截图！
 
 ## 中间件监控
 
@@ -24,15 +20,19 @@
 >
 > **存储系统**：Ceph、MinIO ...
 
-**1、RocketMQ**
-
 ![image-20230403163944514](https://csdn-rab.oss-cn-chengdu.aliyuncs.com/img/image-20230403163944514.png)
+
+![image-20230403174259684](https://csdn-rab.oss-cn-chengdu.aliyuncs.com/img/image-20230403174259684.png)
+
+部分截图！
 
 ## 应用层监控
 
 > 应用程序代码状态、性能，各类应用层协议。
 
 ![image-20230403162227697](https://csdn-rab.oss-cn-chengdu.aliyuncs.com/img/image-20230403162227697.png)
+
+部分截图！
 
 ## 业务层监控
 
