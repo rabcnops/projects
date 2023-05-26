@@ -24,7 +24,7 @@
 
 > 架构概要：根据公司业务需求，对当前主从架构实现多主多从的架构升级。
 
-![M-S-1](https://csdn-rab.oss-cn-chengdu.aliyuncs.com/img/M-S-1.png)
+![mysql-szsc](https://csdn-rab.oss-cn-chengdu.aliyuncs.com/img/mysql-szsc.jpg)
 
 ### 2.2 多功能数据库备份脚本实现运维自动化
 
