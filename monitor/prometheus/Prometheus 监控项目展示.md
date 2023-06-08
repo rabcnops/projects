@@ -1,12 +1,17 @@
-# Prometheus 监控项目展示
+# Prometheus 监控设计与部署
 
-- [Prometheus 监控项目展示](#prometheus-监控项目展示)
-  - [一、系统层监控](#一系统层监控)
-  - [二、中间件监控](#二中间件监控)
-  - [三、应用层监控](#三应用层监控)
-  - [四、业务层监控](#四业务层监控)
+## 一、技能描述
 
-## 一、系统层监控
+- 能够熟练安装、配置和管理 Prometheus 监控系统，包括配置文件编写、数据存储和查询等方面；
+- 能够熟练使用 Prometheus 常见的 Exporters，如 Node Exporter、MySQL Exporter、Blackbox Exporter、Pushgateway 等，在业务应用中对关键性能指标进行监控；
+- 熟悉 Prometheus 告警机制，能够编写和配置 Alertmanager 规则文件，进行告警通知和故障处理；
+- 熟悉 Grafana 可视化工具，能够结合 Prometheus 数据源创建仪表盘和图表，对数据图像化展示和监控定制化进行实现；
+- 熟悉 Kubernetes 集群监控，能够使用 Prometheus-Operator 或 kube-prometheus 方案进行定制化监控；
+- 熟悉 Prometheus 故障排查和性能优化，能够使用 PromQL 进行高级查询和分析，提高监控数据的有效性和可靠性。
+
+## 二、项目经验
+
+**1、系统层监控**
 
 > **系统监控**：CPU、Memory、Disk、Disk IO、Load、Processes ...
 >
@@ -16,7 +21,7 @@
 
 部分截图！
 
-## 二、中间件监控
+**2、中间件监控**
 
 > **消息中间件**：Kafka、RacketMQ、RabbitMQ ...
 >
@@ -32,7 +37,7 @@
 
 部分截图！
 
-## 三、应用层监控
+**3、应用层监控**
 
 > 应用程序代码状态、性能，各类应用层协议。
 
@@ -40,5 +45,6 @@
 
 部分截图！
 
-## 四、业务层监控
+**4、业务层监控**
 
+待补充...
