@@ -19,7 +19,7 @@
 >
 > 概要：根据公司业务需求，对当前主从架构实现多主多从的架构升级。
 
-![MySQL szsc-2](https://csdn-rab.oss-cn-chengdu.aliyuncs.com/img/MySQL%20szsc-2.png)
+![MySQL szsc-3](https://csdn-rab.oss-cn-chengdu.aliyuncs.com/img/MySQL%20szsc-3.jpg)
 
 **2、数据备份**
 
