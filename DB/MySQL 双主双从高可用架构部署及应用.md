@@ -1,4 +1,4 @@
-# 关系型数据库 - MySQL
+# MySQL 双主双从高可用架构部署及应用
 
 ## 一、技能描述
 
@@ -13,26 +13,20 @@
 
 ## 二、项目经验
 
-### 2.1 双主双从架构升级与生产落地
+**1、架构设计**
 
-> 架构概要：根据公司业务需求，对当前主从架构实现多主多从的架构升级。
+> 双主双从架构升级与生产落地；
+>
+> 概要：根据公司业务需求，对当前主从架构实现多主多从的架构升级。
 
-![mysql-szsc](https://csdn-rab.oss-cn-chengdu.aliyuncs.com/img/mysql-szsc.jpg)
+![MySQL szsc-2](https://csdn-rab.oss-cn-chengdu.aliyuncs.com/img/MySQL%20szsc-2.png)
 
-### 2.2 多功能数据库备份脚本实现运维自动化
+**2、数据备份**
 
-> 实现基于 Docker、yum 安装、编译安装、二进制安装的数据库备份。
+> 实现基于 Docker、yum 安装、编译安装、二进制安装的多功能数据库备份脚本。
 >
 > 实现对小表、大表（>8000000）单独备份，保证业务数据库的稳定性。
 
 ![image-20230418121749178](https://csdn-rab.oss-cn-chengdu.aliyuncs.com/img/image-20230418121749178.png)
-
-### 2.3 生产环境下解决开发误删数据恢复问题
-
-> 本次数据库数据基于 Binlog 实现恢复。
->
-> 以下案例为生产环境下的数据恢复操作概要。
-
-![image-20230515170821228](https://csdn-rab.oss-cn-chengdu.aliyuncs.com/img/image-20230515170821228.png)
 
 ---END

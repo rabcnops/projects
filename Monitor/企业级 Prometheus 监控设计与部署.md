@@ -1,4 +1,4 @@
-# Prometheus 监控设计与部署
+# 企业级 Prometheus 监控设计与部署
 
 ## 一、技能描述
 
@@ -34,6 +34,8 @@
 ![image-20230403163944514](https://csdn-rab.oss-cn-chengdu.aliyuncs.com/img/image-20230403163944514.png)
 
 ![image-20230403174259684](https://csdn-rab.oss-cn-chengdu.aliyuncs.com/img/image-20230403174259684.png)
+
+![image-20230609115131215](https://csdn-rab.oss-cn-chengdu.aliyuncs.com/img/image-20230609115131215.png)
 
 部分截图！
 
